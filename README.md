@@ -18,8 +18,8 @@
 ---
 
 ## 🧠 Overview  
-**Interview-Trainer-AI-Agent** is an advanced **AI-powered virtual interview assistant** designed to simulate real interview sessions.  
-It combines **AI reasoning**, **interactive notebooks**, and **dynamic feedback** to help users sharpen their **communication**, **technical**, and **problem-solving** skills.
+- **Interview-Trainer-AI-Agent** is an advanced **AI-powered virtual interview assistant** designed to simulate real interview sessions.  
+- It combines **AI reasoning**, **interactive notebooks**, and **dynamic feedback** to help users sharpen their **communication**, **technical**, and **problem-solving** skills.
 
 > 🎯 *Practice smarter — not harder. Prepare for your dream job with intelligent, personalized feedback.*
 
